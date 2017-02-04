@@ -1,3 +1,5 @@
 I know mars is red
 
 mars is close to earth
+
+It has a moon named Phobos.
