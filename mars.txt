@@ -1,1 +1,3 @@
-mars is red
+I know mars is red
+
+mars is close to earth
